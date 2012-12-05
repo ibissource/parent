@@ -2,5 +2,5 @@
 	path = example-webapp
 	url = git@github.com:ibissource/example-webapp.git
 [submodule "iaf"]
-	path = iaf
+	path = adapterframework
 	url = git@github.com:ibissource/iaf.git
