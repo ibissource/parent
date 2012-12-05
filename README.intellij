@@ -1,0 +1,10 @@
+How to use this in intellij
+
+1. Clone this any way you like and do File -> open project, and select the pom.xml
+2. To use git via intellij you need to install the git plugin.
+3. You can add a tomcat configuration via Run-> Edit Configuration -> + -> Tomcat Server -> Local -> Add example webapp under deployments tab.
+4. Run it 
+
+to check out via intellij doesn't work very well because of lacking support for submodules: http://youtrack.jetbrains.com/issue/IDEA-64024
+
+
