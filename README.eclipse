@@ -4,7 +4,7 @@ Via Eclipse Marketplace:
 
 1. install egit
 2. install m2eclipse (m2e)
-3. install m2e-wtp. Maven integration for Exclipse WTP.
+3. install m2e-wtp. Maven integration for Eclipse WTP.
 
 Then
 1. start a new eclipse workspace
@@ -19,5 +19,7 @@ Then
 
 The work space will now be build.
 
+Via the Java EE perspective you can create a tomcat server.
 
+The exmample-webapp can be run in this server.
 
