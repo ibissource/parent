@@ -272,16 +272,6 @@
       <scope>system</scope>
     </dependency>
 
-      <!--
-    <dependency>
-      <groupId>nl.nn.coolgen</groupId>
-      <artifactId>coolgen</artifactId>
-      <version>0</version>
-      <systemPath>${ibis.dependencies}/NNCoolgenJavaProxies.jar</systemPath>
-      <scope>system</scope>
-    </dependency>
-    -->
-
     <dependency>
       <groupId>com.ing.mettserver</groupId>
       <artifactId>mettserver</artifactId>
