@@ -3,6 +3,6 @@ maven-parent
 
 This is the maven parent for the ibis project.
 
-The other projects are submodules in git, and also in maven.
+For now this project is privately maintained in bitbucket. 
 
-Checking this one out _with submodules_ will give you all you need.
+https://bitbucket.org/mihxil/ibissource-parent
