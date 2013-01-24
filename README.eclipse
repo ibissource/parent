@@ -6,13 +6,17 @@ Via Eclipse Marketplace:
 2. install m2eclipse (m2e)
 3. install m2e-wtp. Maven integration for Eclipse WTP.
 
+
 Then
 1. start a new eclipse workspace
 2. close Welcome, open 'Git Repository Exploring' perspective (with the little plus near the upper right corner)
 3. Clone a  git repository
-4. URI: git@github.com:ibissource/maven-parent.git 
+4. Choose a convenient URI
+   - git://github.com/ibissource/parent.git         (readonly so so you don't need an account at github)
+   - git@github.com:ibissource/maven-parent.git     
+   - git@bitbucket.org:mihxil/ibissource-parent.git (this is a private repository which already contains the source code)  
 5. select master branch
-6. Choose directory. Check 'clone submodules'.
+6. Choose directory. 
 7. Wait until pull from git is ready 
 8. Right click 'maven-parent' and choose 'Import maven projects'
 9. Select all
