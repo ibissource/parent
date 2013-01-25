@@ -27,3 +27,8 @@ Via the Java EE perspective you can create a tomcat server.
 
 The example-webapp can be run in this server.
 
+Maven goals can explicitely be run with e.g.:
+      - right click project
+      - Run As -> Maven install
+In this case artifacts will appear in the 'target' directory, and in your local maven repository.
+
